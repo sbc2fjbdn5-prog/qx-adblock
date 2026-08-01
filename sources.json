@@ -1,0 +1,380 @@
+[
+  {
+    "title": "去开屏广告轻量版",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/adlite.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/adlite.conf",
+    "local_path": "modules/yfamilys/adlite.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "去开屏广告融合版",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/startingad.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/startingad.conf",
+    "local_path": "modules/yfamilys/startingad.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "去开屏广告融合版ultra",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/adultra.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/adultra.conf",
+    "local_path": "modules/yfamilys/adultra.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "去开屏广告融合版ultra+",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/adultraplus.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/adultraplus.conf",
+    "local_path": "modules/yfamilys/adultraplus.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "知乎去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/ZhihuBlock.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/ZhihuBlock.conf",
+    "local_path": "modules/yfamilys/ZhihuBlock.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "广告屏蔽",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/AdBlock.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/AdBlock.conf",
+    "local_path": "modules/yfamilys/AdBlock.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "微信公众号去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/wechatad.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/wechatad.conf",
+    "local_path": "modules/yfamilys/wechatad.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "微博去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/weiboad.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/weiboad.conf",
+    "local_path": "modules/yfamilys/weiboad.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "哔哩哔哩去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/biliad.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/biliad.conf",
+    "local_path": "modules/yfamilys/biliad.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "喜马拉雅去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/xmlyad.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/xmlyad.conf",
+    "local_path": "modules/yfamilys/xmlyad.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "人人视频去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/rrsp.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/rrsp.conf",
+    "local_path": "modules/yfamilys/rrsp.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "1blocker",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/1blocker.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/1blocker.conf",
+    "local_path": "modules/yfamilys/1blocker.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "人民日报去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/rmrb.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/rmrb.conf",
+    "local_path": "modules/yfamilys/rmrb.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "高德地图去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/gddt.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/gddt.conf",
+    "local_path": "modules/yfamilys/gddt.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "YouTube去广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/rewrite/youtube.conf",
+    "upstream_url": "https://yfamilys.com/rewrite/youtube.conf",
+    "local_path": "modules/yfamilys/youtube.conf",
+    "group": "yfamilys"
+  },
+  {
+    "title": "闲鱼开屏广告",
+    "source_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/refs/heads/main/custom/GoofishSplash.conf",
+    "upstream_url": "https://github.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/blob/main/custom/GoofishSplash.conf",
+    "local_path": "modules/custom/GoofishSplash.conf",
+    "group": "custom"
+  },
+  {
+    "title": "ddgksf2013 · AmapAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/AmapAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/AmapAds.conf",
+    "local_path": "modules/ddgksf2013/AmapAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · Applet",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf",
+    "local_path": "modules/ddgksf2013/Applet.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · BiliBiliComicsAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BiliBiliComicsAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BiliBiliComicsAds.conf",
+    "local_path": "modules/ddgksf2013/BiliBiliComicsAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · BingSimplify",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BingSimplify.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BingSimplify.conf",
+    "local_path": "modules/ddgksf2013/BingSimplify.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · CaiYunAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CaiYunAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CaiYunAds.conf",
+    "local_path": "modules/ddgksf2013/CaiYunAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · CainiaoAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CainiaoAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CainiaoAds.conf",
+    "local_path": "modules/ddgksf2013/CainiaoAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · CheLaiLeAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CheLaiLeAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CheLaiLeAds.conf",
+    "local_path": "modules/ddgksf2013/CheLaiLeAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · ChinaUnicomAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/ChinaUnicomAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/ChinaUnicomAds.conf",
+    "local_path": "modules/ddgksf2013/ChinaUnicomAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · FakeiOSAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/FakeiOSAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/FakeiOSAds.conf",
+    "local_path": "modules/ddgksf2013/FakeiOSAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · GoofishAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/GoofishAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/GoofishAds.conf",
+    "local_path": "modules/ddgksf2013/GoofishAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · KeepAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/KeepAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/KeepAds.conf",
+    "local_path": "modules/ddgksf2013/KeepAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · MoJiWeatherAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/MoJiWeatherAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/MoJiWeatherAds.conf",
+    "local_path": "modules/ddgksf2013/MoJiWeatherAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · NeteaseAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseAds.conf",
+    "local_path": "modules/ddgksf2013/NeteaseAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · NeteaseMailAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseMailAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseMailAds.conf",
+    "local_path": "modules/ddgksf2013/NeteaseMailAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · QiShuiMusicAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/QiShuiMusicAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/QiShuiMusicAds.conf",
+    "local_path": "modules/ddgksf2013/QiShuiMusicAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · RedditAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/RedditAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/RedditAds.conf",
+    "local_path": "modules/ddgksf2013/RedditAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · SmzdmAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/SmzdmAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/SmzdmAds.conf",
+    "local_path": "modules/ddgksf2013/SmzdmAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · TaoPiaoPiaoAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/TaoPiaoPiaoAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/TaoPiaoPiaoAds.conf",
+    "local_path": "modules/ddgksf2013/TaoPiaoPiaoAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · TieBaAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/TieBaAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/TieBaAds.conf",
+    "local_path": "modules/ddgksf2013/TieBaAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · WeChat",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeChat.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeChat.conf",
+    "local_path": "modules/ddgksf2013/WeChat.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · WeiboAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeiboAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeiboAds.conf",
+    "local_path": "modules/ddgksf2013/WeiboAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · XiaoYuZhouAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/XiaoYuZhouAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/XiaoYuZhouAds.conf",
+    "local_path": "modules/ddgksf2013/XiaoYuZhouAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · Ximalaya",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Ximalaya.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Ximalaya.conf",
+    "local_path": "modules/ddgksf2013/Ximalaya.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "ddgksf2013 · YoutubeAds",
+    "source_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/YoutubeAds.conf",
+    "upstream_url": "https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/YoutubeAds.conf",
+    "local_path": "modules/ddgksf2013/YoutubeAds.conf",
+    "group": "ddgksf2013"
+  },
+  {
+    "title": "app2smile · adsense",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.conf",
+    "local_path": "modules/app2smile/adsense.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · baidumap",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/baidumap.sgmodule",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/baidumap.sgmodule",
+    "local_path": "modules/app2smile/baidumap.sgmodule",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · bilibili-qx",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili-qx.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili-qx.conf",
+    "local_path": "modules/app2smile/bilibili-qx.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · qidian",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf",
+    "local_path": "modules/app2smile/qidian.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · qqnews",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/qqnews.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/qqnews.conf",
+    "local_path": "modules/app2smile/qqnews.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · tieba-qx",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba-qx.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/tieba-qx.conf",
+    "local_path": "modules/app2smile/tieba-qx.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · vgtime",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/vgtime.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/vgtime.conf",
+    "local_path": "modules/app2smile/vgtime.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · youtube-qx",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf",
+    "local_path": "modules/app2smile/youtube-qx.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "app2smile · zhihu",
+    "source_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.conf",
+    "upstream_url": "https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.conf",
+    "local_path": "modules/app2smile/zhihu.conf",
+    "group": "app2smile"
+  },
+  {
+    "title": "blackmatrix7 · Advertising",
+    "source_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/Advertising/Advertising.conf",
+    "upstream_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/Advertising/Advertising.conf",
+    "local_path": "modules/blackmatrix7/Advertising.conf",
+    "group": "blackmatrix7"
+  },
+  {
+    "title": "blackmatrix7 · AdvertisingLite",
+    "source_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf",
+    "upstream_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf",
+    "local_path": "modules/blackmatrix7/AdvertisingLite.conf",
+    "group": "blackmatrix7"
+  },
+  {
+    "title": "blackmatrix7 · AdvertisingScript",
+    "source_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf",
+    "upstream_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf",
+    "local_path": "modules/blackmatrix7/AdvertisingScript.conf",
+    "group": "blackmatrix7"
+  },
+  {
+    "title": "blackmatrix7 · AllInOne",
+    "source_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.conf",
+    "upstream_url": "https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.conf",
+    "local_path": "modules/blackmatrix7/AllInOne.conf",
+    "group": "blackmatrix7"
+  },
+  {
+    "title": "Adblock4limbo · 网页广告净化",
+    "source_url": "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf",
+    "upstream_url": "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf",
+    "local_path": "modules/limbopro/Adblock4limbo.conf",
+    "group": "limbopro"
+  }
+]

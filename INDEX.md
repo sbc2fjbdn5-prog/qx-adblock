@@ -1,0 +1,62 @@
+# Quantumult X 去广告模块索引
+
+收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo 及自制模块
+
+生成时间：`2026-08-01T17:16:56.143745+00:00`
+
+| 名称 | 镜像文件 | 原始地址 |
+|---|---|---|
+| 去开屏广告轻量版 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/adlite.conf) | [来源](https://yfamilys.com/rewrite/adlite.conf) |
+| 去开屏广告融合版 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/startingad.conf) | [来源](https://yfamilys.com/rewrite/startingad.conf) |
+| 去开屏广告融合版ultra | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/adultra.conf) | [来源](https://yfamilys.com/rewrite/adultra.conf) |
+| 去开屏广告融合版ultra+ | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/adultraplus.conf) | [来源](https://yfamilys.com/rewrite/adultraplus.conf) |
+| 知乎去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/ZhihuBlock.conf) | [来源](https://yfamilys.com/rewrite/ZhihuBlock.conf) |
+| 广告屏蔽 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/AdBlock.conf) | [来源](https://yfamilys.com/rewrite/AdBlock.conf) |
+| 微信公众号去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/wechatad.conf) | [来源](https://yfamilys.com/rewrite/wechatad.conf) |
+| 微博去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/weiboad.conf) | [来源](https://yfamilys.com/rewrite/weiboad.conf) |
+| 哔哩哔哩去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/biliad.conf) | [来源](https://yfamilys.com/rewrite/biliad.conf) |
+| 喜马拉雅去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/xmlyad.conf) | [来源](https://yfamilys.com/rewrite/xmlyad.conf) |
+| 人人视频去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/rrsp.conf) | [来源](https://yfamilys.com/rewrite/rrsp.conf) |
+| 1blocker | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/1blocker.conf) | [来源](https://yfamilys.com/rewrite/1blocker.conf) |
+| 人民日报去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/rmrb.conf) | [来源](https://yfamilys.com/rewrite/rmrb.conf) |
+| 高德地图去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/gddt.conf) | [来源](https://yfamilys.com/rewrite/gddt.conf) |
+| YouTube去广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/yfamilys/youtube.conf) | [来源](https://yfamilys.com/rewrite/youtube.conf) |
+| 闲鱼开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/GoofishSplash.conf) | [来源](https://github.com/sbc2fjbdn5-prog/yfamilys-qx-mirror/blob/main/custom/GoofishSplash.conf) |
+| ddgksf2013 · AmapAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/AmapAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/AmapAds.conf) |
+| ddgksf2013 · Applet | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/Applet.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Applet.conf) |
+| ddgksf2013 · BiliBiliComicsAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/BiliBiliComicsAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BiliBiliComicsAds.conf) |
+| ddgksf2013 · BingSimplify | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/BingSimplify.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/BingSimplify.conf) |
+| ddgksf2013 · CaiYunAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/CaiYunAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CaiYunAds.conf) |
+| ddgksf2013 · CainiaoAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/CainiaoAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CainiaoAds.conf) |
+| ddgksf2013 · CheLaiLeAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/CheLaiLeAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/CheLaiLeAds.conf) |
+| ddgksf2013 · ChinaUnicomAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/ChinaUnicomAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/ChinaUnicomAds.conf) |
+| ddgksf2013 · FakeiOSAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/FakeiOSAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/FakeiOSAds.conf) |
+| ddgksf2013 · GoofishAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/GoofishAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/GoofishAds.conf) |
+| ddgksf2013 · KeepAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/KeepAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/KeepAds.conf) |
+| ddgksf2013 · MoJiWeatherAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/MoJiWeatherAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/MoJiWeatherAds.conf) |
+| ddgksf2013 · NeteaseAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/NeteaseAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseAds.conf) |
+| ddgksf2013 · NeteaseMailAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/NeteaseMailAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/NeteaseMailAds.conf) |
+| ddgksf2013 · QiShuiMusicAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/QiShuiMusicAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/QiShuiMusicAds.conf) |
+| ddgksf2013 · RedditAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/RedditAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/RedditAds.conf) |
+| ddgksf2013 · SmzdmAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/SmzdmAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/SmzdmAds.conf) |
+| ddgksf2013 · TaoPiaoPiaoAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/TaoPiaoPiaoAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/TaoPiaoPiaoAds.conf) |
+| ddgksf2013 · TieBaAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/TieBaAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/TieBaAds.conf) |
+| ddgksf2013 · WeChat | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/WeChat.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeChat.conf) |
+| ddgksf2013 · WeiboAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/WeiboAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/WeiboAds.conf) |
+| ddgksf2013 · XiaoYuZhouAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/XiaoYuZhouAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/XiaoYuZhouAds.conf) |
+| ddgksf2013 · Ximalaya | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/Ximalaya.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/Ximalaya.conf) |
+| ddgksf2013 · YoutubeAds | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/ddgksf2013/YoutubeAds.conf) | [来源](https://raw.githubusercontent.com/ddgksf2013/Rewrite/master/AdBlock/YoutubeAds.conf) |
+| app2smile · adsense | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/adsense.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/adsense.conf) |
+| app2smile · baidumap | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/baidumap.sgmodule) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/baidumap.sgmodule) |
+| app2smile · bilibili-qx | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/bilibili-qx.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/bilibili-qx.conf) |
+| app2smile · qidian | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/qidian.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/qidian.conf) |
+| app2smile · qqnews | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/qqnews.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/qqnews.conf) |
+| app2smile · tieba-qx | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/tieba-qx.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/tieba-qx.conf) |
+| app2smile · vgtime | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/vgtime.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/vgtime.conf) |
+| app2smile · youtube-qx | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/youtube-qx.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/youtube-qx.conf) |
+| app2smile · zhihu | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/app2smile/zhihu.conf) | [来源](https://raw.githubusercontent.com/app2smile/rules/master/module/zhihu.conf) |
+| blackmatrix7 · Advertising | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/blackmatrix7/Advertising.conf) | [来源](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/Advertising/Advertising.conf) |
+| blackmatrix7 · AdvertisingLite | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/blackmatrix7/AdvertisingLite.conf) | [来源](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingLite/AdvertisingLite.conf) |
+| blackmatrix7 · AdvertisingScript | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/blackmatrix7/AdvertisingScript.conf) | [来源](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf) |
+| blackmatrix7 · AllInOne | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/blackmatrix7/AllInOne.conf) | [来源](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.conf) |
+| Adblock4limbo · 网页广告净化 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/limbopro/Adblock4limbo.conf) | [来源](https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf) |
