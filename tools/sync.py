@@ -294,7 +294,28 @@ def main() -> int:
         occupied[local_path.casefold()] = url
         title_by_url[url] = item["title"]
 
-    initial_results = fetch_many(list(url_to_path))
+    initial_results: dict[str, FetchResult] = {}
+    remote_urls: list[str] = []
+    for item in initial_items:
+        url = item["source_url"]
+        local_source_path = item.get("local_source_path")
+        if local_source_path:
+            source_path = ROOT / local_source_path
+            try:
+                initial_results[url] = FetchResult(
+                    url=url,
+                    ok=True,
+                    content=source_path.read_bytes(),
+                )
+            except OSError as error:
+                initial_results[url] = FetchResult(
+                    url=url,
+                    ok=False,
+                    error=f"local source: {error}",
+                )
+        else:
+            remote_urls.append(url)
+    initial_results.update(fetch_many(remote_urls))
     successful_content: dict[str, bytes] = {}
     failures: dict[str, str] = {}
     recovered_from: dict[str, str] = {}
@@ -470,6 +491,7 @@ Quantumult X 去广告模块专用镜像。模块及其脚本依赖均保存到�
 ## 目录
 
 - `modules/`：按来源分类的 QX 去广告模块
+- `custom_sources/`：自制模块的可维护源文件
 - `dependencies/`：重写文件引用的远程脚本快照
 - `sources.json`：模块来源清单
 - `tools/sync.py`：重新抓取并更新快照

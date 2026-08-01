@@ -2,7 +2,7 @@
 
 收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo、zirawell 及自制模块
 
-生成时间：`2026-08-01T17:20:25.154266+00:00`
+生成时间：`2026-08-01T17:25:53.761992+00:00`
 
 | 名称 | 镜像文件 | 原始地址 |
 |---|---|---|
@@ -66,3 +66,4 @@
 | 中国移动 · 广东开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086gd.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gd.conf) |
 | 中国移动 · 山东开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086sd.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086sd.conf) |
 | 中国移动 · 安徽开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086ah.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086ah.conf) |
+| 中国移动 · 山西开屏广告（兼容版） | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/ChinaMobileShanxi.conf) | [来源](https://github.com/deezertidal/QuantumultX-Rewrite/blob/master/rewrite/AdBlock.conf) |
