@@ -376,5 +376,47 @@
     "upstream_url": "https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf",
     "local_path": "modules/limbopro/Adblock4limbo.conf",
     "group": "limbopro"
+  },
+  {
+    "title": "中国移动 · 通用开屏广告",
+    "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086_general.conf",
+    "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086_general.conf",
+    "local_path": "modules/zirawell/10086_general.conf",
+    "group": "zirawell"
+  },
+  {
+    "title": "中国移动 · 广西开屏广告",
+    "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gx.conf",
+    "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gx.conf",
+    "local_path": "modules/zirawell/10086gx.conf",
+    "group": "zirawell"
+  },
+  {
+    "title": "中国移动 · 江苏开屏广告",
+    "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086js.conf",
+    "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086js.conf",
+    "local_path": "modules/zirawell/10086js.conf",
+    "group": "zirawell"
+  },
+  {
+    "title": "中国移动 · 广东开屏广告",
+    "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gd.conf",
+    "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gd.conf",
+    "local_path": "modules/zirawell/10086gd.conf",
+    "group": "zirawell"
+  },
+  {
+    "title": "中国移动 · 山东开屏广告",
+    "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086sd.conf",
+    "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086sd.conf",
+    "local_path": "modules/zirawell/10086sd.conf",
+    "group": "zirawell"
+  },
+  {
+    "title": "中国移动 · 安徽开屏广告",
+    "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086ah.conf",
+    "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086ah.conf",
+    "local_path": "modules/zirawell/10086ah.conf",
+    "group": "zirawell"
   }
 ]

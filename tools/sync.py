@@ -439,7 +439,7 @@ def main() -> int:
     index_lines = [
         "# Quantumult X 去广告模块索引",
         "",
-        "收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo 及自制模块",
+        "收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo、zirawell 及自制模块",
         "",
         f"生成时间：`{generated_at}`",
         "",

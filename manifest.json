@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T17:16:56.143745+00:00",
+  "generated_at": "2026-08-01T17:20:25.154266+00:00",
   "source_catalog": "sources.json",
   "destination_repository": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
   "raw_base": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/",
   "summary": {
-    "discovered_modules": 54,
-    "downloaded_modules": 54,
+    "discovered_modules": 60,
+    "downloaded_modules": 60,
     "discovered_dependencies": 168,
     "downloaded_dependencies": 168,
     "failed_downloads": 0,
@@ -2204,6 +2204,84 @@
           "local_path": "dependencies/raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adguard/Adblock4limbo.js"
         }
       ],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 通用开屏广告",
+      "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086_general.conf",
+      "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086_general.conf",
+      "group": "zirawell",
+      "local_path": "modules/zirawell/10086_general.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086_general.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "6d30f18ede63a27f2c5faff2cabdbf18a128ef13fab39d84c338a454834c1350",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 广西开屏广告",
+      "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gx.conf",
+      "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gx.conf",
+      "group": "zirawell",
+      "local_path": "modules/zirawell/10086gx.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086gx.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "b3cc4499082f07cde970a33721df459c308858a8b35a224e77b82463228b172c",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 江苏开屏广告",
+      "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086js.conf",
+      "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086js.conf",
+      "group": "zirawell",
+      "local_path": "modules/zirawell/10086js.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086js.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "b497115a5ca12101b7cbf12a26b1d3faacc65f94ffe0b1af3a5368ee388a4298",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 广东开屏广告",
+      "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gd.conf",
+      "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gd.conf",
+      "group": "zirawell",
+      "local_path": "modules/zirawell/10086gd.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086gd.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "c11820cf4d4e6f9d5b6a1c1e080b66f491e64e66c49c171c923c8df6dab0cbf7",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 山东开屏广告",
+      "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086sd.conf",
+      "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086sd.conf",
+      "group": "zirawell",
+      "local_path": "modules/zirawell/10086sd.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086sd.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "ee87349d7888d59d03ed9e9b6518ebe9744b04bd404278340d9dd346c7d9ea08",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 安徽开屏广告",
+      "source_url": "https://raw.githubusercontent.com/zirawell/Ad-Cleaner/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086ah.conf",
+      "upstream_url": "https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086ah.conf",
+      "group": "zirawell",
+      "local_path": "modules/zirawell/10086ah.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086ah.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "e0ff58bbc58e8aee16b6ab284d6046f17efb3d90971e6b7df79968f0f9b8d004",
+      "dependency_replacements": [],
       "error": null
     }
   ],

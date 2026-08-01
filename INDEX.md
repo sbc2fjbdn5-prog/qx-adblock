@@ -1,8 +1,8 @@
 # Quantumult X 去广告模块索引
 
-收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo 及自制模块
+收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo、zirawell 及自制模块
 
-生成时间：`2026-08-01T17:16:56.143745+00:00`
+生成时间：`2026-08-01T17:20:25.154266+00:00`
 
 | 名称 | 镜像文件 | 原始地址 |
 |---|---|---|
@@ -60,3 +60,9 @@
 | blackmatrix7 · AdvertisingScript | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/blackmatrix7/AdvertisingScript.conf) | [来源](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AdvertisingScript/AdvertisingScript.conf) |
 | blackmatrix7 · AllInOne | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/blackmatrix7/AllInOne.conf) | [来源](https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/rewrite/QuantumultX/AllInOne/AllInOne.conf) |
 | Adblock4limbo · 网页广告净化 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/limbopro/Adblock4limbo.conf) | [来源](https://raw.githubusercontent.com/limbopro/Adblock4limbo/main/Adblock4limbo.conf) |
+| 中国移动 · 通用开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086_general.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086_general.conf) |
+| 中国移动 · 广西开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086gx.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gx.conf) |
+| 中国移动 · 江苏开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086js.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086js.conf) |
+| 中国移动 · 广东开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086gd.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086gd.conf) |
+| 中国移动 · 山东开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086sd.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086sd.conf) |
+| 中国移动 · 安徽开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/zirawell/10086ah.conf) | [来源](https://github.com/zirawell/Ad-Cleaner/blob/main/Adblock/App/Z/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8/rewrite/10086ah.conf) |
