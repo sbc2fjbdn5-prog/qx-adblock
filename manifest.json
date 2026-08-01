@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-01T17:36:54.201794+00:00",
+  "generated_at": "2026-08-01T17:42:53.314132+00:00",
   "source_catalog": "sources.json",
   "destination_repository": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
   "raw_base": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/",
@@ -2293,7 +2293,7 @@
       "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/ChinaMobileShanxi.conf",
       "status": "ok",
       "recovery_source_url": null,
-      "sha256": "00dd5428383bacc6978cead25670ac3ec886d61e51bec31d1cb302c97825aa9b",
+      "sha256": "e03a2eef5cf439d7bd8bcc5962607d7b69dcceb347bc58f10869fff89922c94a",
       "dependency_replacements": [],
       "error": null
     },
