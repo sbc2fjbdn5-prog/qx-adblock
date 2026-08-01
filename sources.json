@@ -426,5 +426,13 @@
     "local_source_path": "custom_sources/ChinaMobileShanxi.conf",
     "local_path": "modules/custom/ChinaMobileShanxi.conf",
     "group": "custom"
+  },
+  {
+    "title": "中国移动 · 广告接口诊断（临时启用）",
+    "source_url": "local://custom_sources/ChinaMobileTrace.conf",
+    "upstream_url": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
+    "local_source_path": "custom_sources/ChinaMobileTrace.conf",
+    "local_path": "modules/custom/ChinaMobileTrace.conf",
+    "group": "custom"
   }
 ]

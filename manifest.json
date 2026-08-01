@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T17:31:18.256417+00:00",
+  "generated_at": "2026-08-01T17:36:54.201794+00:00",
   "source_catalog": "sources.json",
   "destination_repository": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
   "raw_base": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/",
   "summary": {
-    "discovered_modules": 61,
-    "downloaded_modules": 61,
+    "discovered_modules": 62,
+    "downloaded_modules": 62,
     "discovered_dependencies": 168,
     "downloaded_dependencies": 168,
     "failed_downloads": 0,
@@ -2294,6 +2294,19 @@
       "status": "ok",
       "recovery_source_url": null,
       "sha256": "00dd5428383bacc6978cead25670ac3ec886d61e51bec31d1cb302c97825aa9b",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "中国移动 · 广告接口诊断（临时启用）",
+      "source_url": "local://custom_sources/ChinaMobileTrace.conf",
+      "upstream_url": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
+      "group": "custom",
+      "local_path": "modules/custom/ChinaMobileTrace.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/ChinaMobileTrace.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "75e05f6fd70bb24b3517e84d95874a82616d3eb228fbbc665dce12ecfee9cba3",
       "dependency_replacements": [],
       "error": null
     }
