@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T17:42:53.314132+00:00",
+  "generated_at": "2026-08-03T04:50:11.589560+00:00",
   "source_catalog": "sources.json",
   "destination_repository": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
   "raw_base": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/",
   "summary": {
-    "discovered_modules": 62,
-    "downloaded_modules": 62,
+    "discovered_modules": 63,
+    "downloaded_modules": 63,
     "discovered_dependencies": 168,
     "downloaded_dependencies": 168,
     "failed_downloads": 0,
@@ -2307,6 +2307,19 @@
       "status": "ok",
       "recovery_source_url": null,
       "sha256": "75e05f6fd70bb24b3517e84d95874a82616d3eb228fbbc665dce12ecfee9cba3",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "锤子便签 · 开屏广告",
+      "source_url": "local://custom_sources/SmartisanNotes.conf",
+      "upstream_url": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
+      "group": "custom",
+      "local_path": "modules/custom/SmartisanNotes.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/SmartisanNotes.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "247a849fb1f79c85170c9846a18dfa493faecc9e74c04e4097df26f1ea30a678",
       "dependency_replacements": [],
       "error": null
     }

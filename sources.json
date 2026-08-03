@@ -434,5 +434,13 @@
     "local_source_path": "custom_sources/ChinaMobileTrace.conf",
     "local_path": "modules/custom/ChinaMobileTrace.conf",
     "group": "custom"
+  },
+  {
+    "title": "锤子便签 · 开屏广告",
+    "source_url": "local://custom_sources/SmartisanNotes.conf",
+    "upstream_url": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
+    "local_source_path": "custom_sources/SmartisanNotes.conf",
+    "local_path": "modules/custom/SmartisanNotes.conf",
+    "group": "custom"
   }
 ]
