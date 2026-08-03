@@ -2,7 +2,7 @@
 
 收录来源：yfamilys、ddgksf2013、app2smile、blackmatrix7、Adblock4limbo、zirawell 及自制模块
 
-生成时间：`2026-08-03T04:50:11.589560+00:00`
+生成时间：`2026-08-03T05:07:27.725582+00:00`
 
 | 名称 | 镜像文件 | 原始地址 |
 |---|---|---|
@@ -69,3 +69,4 @@
 | 中国移动 · 山西开屏广告（兼容版） | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/ChinaMobileShanxi.conf) | [来源](https://github.com/deezertidal/QuantumultX-Rewrite/blob/master/rewrite/AdBlock.conf) |
 | 中国移动 · 广告接口诊断（临时启用） | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/ChinaMobileTrace.conf) | [来源](https://github.com/sbc2fjbdn5-prog/qx-adblock) |
 | 锤子便签 · 开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/SmartisanNotes.conf) | [来源](https://github.com/sbc2fjbdn5-prog/qx-adblock) |
+| 百度地图 · 开屏广告 | [Raw](https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/BaiduMap.conf) | [来源](https://github.com/app2smile/rules/blob/master/js/baidumap.js) |

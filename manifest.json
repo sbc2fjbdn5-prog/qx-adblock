@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T04:50:11.589560+00:00",
+  "generated_at": "2026-08-03T05:07:27.725582+00:00",
   "source_catalog": "sources.json",
   "destination_repository": "https://github.com/sbc2fjbdn5-prog/qx-adblock",
   "raw_base": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/",
   "summary": {
-    "discovered_modules": 63,
-    "downloaded_modules": 63,
+    "discovered_modules": 64,
+    "downloaded_modules": 64,
     "discovered_dependencies": 168,
     "downloaded_dependencies": 168,
     "failed_downloads": 0,
@@ -2320,6 +2320,19 @@
       "status": "ok",
       "recovery_source_url": null,
       "sha256": "247a849fb1f79c85170c9846a18dfa493faecc9e74c04e4097df26f1ea30a678",
+      "dependency_replacements": [],
+      "error": null
+    },
+    {
+      "title": "百度地图 · 开屏广告",
+      "source_url": "local://custom_sources/BaiduMap.conf",
+      "upstream_url": "https://github.com/app2smile/rules/blob/master/js/baidumap.js",
+      "group": "custom",
+      "local_path": "modules/custom/BaiduMap.conf",
+      "mirror_url": "https://raw.githubusercontent.com/sbc2fjbdn5-prog/qx-adblock/refs/heads/main/modules/custom/BaiduMap.conf",
+      "status": "ok",
+      "recovery_source_url": null,
+      "sha256": "3a30bf4cf12e5b07684a9caff06d8d7ff7c0457305c9b4f93588b914beddac9c",
       "dependency_replacements": [],
       "error": null
     }

@@ -442,5 +442,13 @@
     "local_source_path": "custom_sources/SmartisanNotes.conf",
     "local_path": "modules/custom/SmartisanNotes.conf",
     "group": "custom"
+  },
+  {
+    "title": "百度地图 · 开屏广告",
+    "source_url": "local://custom_sources/BaiduMap.conf",
+    "upstream_url": "https://github.com/app2smile/rules/blob/master/js/baidumap.js",
+    "local_source_path": "custom_sources/BaiduMap.conf",
+    "local_path": "modules/custom/BaiduMap.conf",
+    "group": "custom"
   }
 ]
